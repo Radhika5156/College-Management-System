@@ -1,30 +1,44 @@
-# College Management System 
+# 🎓 College Management System 
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+![SQL](https://img.shields.io/badge/SQL-Queries-orange)
+![DBMS](https://img.shields.io/badge/DBMS-Academic%20Project-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+---
 
 ##  Project Overview
-The College Management System is a database-driven project developed using MySQL ans SQL to manage core academic entities such as students, teachers, and departments. The project demonstrates practical implementation of relational database concepts, ER modeling, and SQL query execution using MySQL Workbench.
+The **College Management System** is a database-driven academic project developed using **MySQL**.  
+It manages core college entities such as **Students, Teachers, and Departments**, demonstrating practical implementation of **DBMS concepts**, **ER modeling**, and **SQL queries** using MySQL Workbench.
+
+---
+
+##  Key Concepts Used
+- Relational Database Design  
+- ER Diagram Modeling  
+- Primary & Foreign Keys  
+- SQL Queries & JOIN operations  
 
 ---
 
 ##  Technologies Used
-- MySQL 8.0
-- MySQL Workbench
-- SQL
+- **MySQL 8.0**
+- **MySQL Workbench**
+- **SQL**
 
 ---
 
-##  Database Design
-The database is designed using an ER diagram and converted into relational tables with appropriate constraints.
+##  Database Entities
+| Entity | Description |
+|------|------------|
+| Student | Stores student personal & academic details |
+| Teacher | Stores faculty information |
+| Department | Manages department data |
 
-### Entities
-- Student
-- Teacher
-- Department
+---
 
-### Key Features
-- Primary key and foreign key constraints
-- Relational mapping based on ER diagram
-- Structured data storage
-- SQL-based data retrieval
+##  ER Diagram
+![ER Diagram](ER_Diagram.png)
 
 ---
 
@@ -45,16 +59,7 @@ College-Management-System-MySQL/
 ├── ER_Diagram.png
 └── README.md
 
----
----
-
-##  Project Documentation
-The project presentation (PPT) is included in the `docs` folder and contains:
-- Problem statement
-- ER diagram
-- SQL queries
-- Query outputs and explanations
-  
+---  
 ---
 
 ##  How to Run the Project
@@ -67,18 +72,27 @@ The project presentation (PPT) is included in the `docs` folder and contains:
 ---
 
 ##  Screenshots
-The `screenshots` folder contains:
-- Table creation queries
-- Sample data output for Student, Teacher, and Department tables
-- JOIN query output demonstrating foreign key relationships
+The `screenshots` folder includes:
+- Table creation queries  
+- Sample data outputs  
+- JOIN queries showing foreign key relationships  
 
 ---
 
-##  Learning Outcomes
-- Understanding of relational database design
-- Hands-on experience with MySQL and SQL queries
-- Implementation of ER diagrams into database schemas
-- Practical use of primary and foreign keys
+## 📄 Documentation
+Project presentation is available in the `docs/` folder and includes:
+- Problem statement  
+- ER diagram  
+- SQL queries  
+- Query outputs  
+
+---
+
+## 🎯 Learning Outcomes
+- Practical understanding of MySQL & SQL
+- Experience in database normalization
+- Hands-on ER to relational mapping
+- Query execution and validation
 
 ---
 
@@ -87,5 +101,5 @@ The `screenshots` folder contains:
 
 ---
 
-## 📎 Notes
-This project was developed as part of an academic DBMS assignment and executed locally using MySQL Workbench.
+##  Notes
+This project was developed as part of an academic **DBMS coursework** and executed locally using MySQL Workbench.
