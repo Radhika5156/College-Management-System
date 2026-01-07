@@ -79,7 +79,7 @@ The `screenshots` folder includes:
 
 ---
 
-## 📄 Documentation
+##  Documentation
 Project presentation is available in the `docs/` folder and includes:
 - Problem statement  
 - ER diagram  
@@ -88,7 +88,7 @@ Project presentation is available in the `docs/` folder and includes:
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Practical understanding of MySQL & SQL
 - Experience in database normalization
 - Hands-on ER to relational mapping
