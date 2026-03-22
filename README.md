@@ -1,4 +1,5 @@
 # 🎓 College Management System 
+A database-driven system designed to efficiently manage student, teacher, and department records using MySQL.
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 ![SQL](https://img.shields.io/badge/SQL-Queries-orange)
